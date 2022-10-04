@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Romain Laforge</h1>
+<h1 align="center">Hi 👋, i'm Romil!</h1>
 <h3 align="center">I'm a passionate web oriented developper interested in all aspects of a digital product.</h3>
 
 - 🔭 Currently studying at [42 Angoulême.](https://42angouleme.fr/)
